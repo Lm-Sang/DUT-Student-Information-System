@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1:2783",
+    "route": "/academic/grades",
+    "width": 1280,
+    "changes": []
+  },
+  {
+    "id": "1:6522",
+    "route": "/services/requests",
+    "width": 1280,
+    "changes": []
+  },
+  {
+    "id": "1:7383",
+    "route": "/dashboard",
+    "width": 1280,
+    "changes": []
+  },
+  {
+    "id": "222:1000",
+    "route": "/v2/dashboard",
+    "width": 1440,
+    "changes": []
+  },
+  {
+    "id": "222:1558",
+    "route": "/v2/services/requests",
+    "width": 1440,
+    "changes": []
+  },
+  {
+    "id": "222:1564",
+    "route": "/v2/academic/grades",
+    "width": 1440,
+    "changes": []
+  },
+  {
+    "id": "334:3493",
+    "route": "/services/requests",
+    "width": 390,
+    "changes": []
+  },
+  {
+    "id": "335:5464",
+    "route": "/v2/services/requests",
+    "width": 390,
+    "changes": []
+  }
+]

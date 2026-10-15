@@ -1,0 +1,182 @@
+[
+  {
+    "ed": 1,
+    "state": "primary default",
+    "bg": "rgb(46, 99, 184)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "primary hover",
+    "bg": "rgb(36, 84, 159)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "primary pressed",
+    "bg": "rgb(30, 71, 136)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(30, 71, 136)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "disabled visual sample",
+    "bg": "rgb(233, 237, 242)",
+    "color": "rgb(89, 105, 127)",
+    "border": "rgb(229, 235, 242)",
+    "outline": "rgb(89, 105, 127)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "input focus",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(30, 47, 69)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "input invalid",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(30, 47, 69)",
+    "border": "rgb(180, 72, 72)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "secondary default",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(46, 99, 184)",
+    "border": "rgb(123, 135, 152)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "secondary hover",
+    "bg": "rgb(237, 243, 252)",
+    "color": "rgb(46, 99, 184)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 1,
+    "state": "forced colors keyboard focus",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "border": "rgb(55, 0, 110)",
+    "outline": "rgb(55, 0, 110)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "primary default",
+    "bg": "rgb(46, 99, 184)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "primary hover",
+    "bg": "rgb(36, 84, 159)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "primary pressed",
+    "bg": "rgb(30, 71, 136)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(30, 71, 136)",
+    "outline": "rgb(255, 255, 255)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "disabled visual sample",
+    "bg": "rgb(233, 237, 242)",
+    "color": "rgb(89, 105, 127)",
+    "border": "rgb(229, 235, 242)",
+    "outline": "rgb(89, 105, 127)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "input focus",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(30, 47, 69)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "input invalid",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(30, 47, 69)",
+    "border": "rgb(180, 72, 72)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "secondary default",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(46, 99, 184)",
+    "border": "rgb(123, 135, 152)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "secondary hover",
+    "bg": "rgb(237, 243, 252)",
+    "color": "rgb(46, 99, 184)",
+    "border": "rgb(46, 99, 184)",
+    "outline": "rgb(46, 99, 184)",
+    "outlineStyle": "none",
+    "opacity": "1"
+  },
+  {
+    "ed": 2,
+    "state": "forced colors keyboard focus",
+    "bg": "rgb(255, 255, 255)",
+    "color": "rgb(0, 0, 0)",
+    "border": "rgb(55, 0, 110)",
+    "outline": "rgb(55, 0, 110)",
+    "outlineStyle": "solid",
+    "opacity": "1"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "changed": [
+    "web/src/app/layouts/PortalV2Layout.tsx",
+    "web/src/app/providers/AppProviders.tsx",
+    "web/src/app/styles/redesign.css",
+    "web/src/app/styles/tokens.css",
+    "web/src/app/styles/v2.css",
+    "web/design-system/tokens.json",
+    "web/scripts/build-design-tokens.mjs",
+    "docs/ui-ux/external-research.md",
+    "docs/ui-ux/UI_UX_RULES.md",
+    "docs/ui-ux/02-design-system/design-tokens.md",
+    "docs/ui-ux/02-design-system/visual-style.md"
+  ],
+  "businessFiles": 21,
+  "businessChanged": []
+}

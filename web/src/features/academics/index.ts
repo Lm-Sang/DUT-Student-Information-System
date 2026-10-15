@@ -1,0 +1,11 @@
+export { CoursesPage } from './pages/CoursesPage';
+export { CourseDetailPage } from './pages/CourseDetailPage';
+export { GradesPage } from './pages/GradesPage';
+export { CurrentGradesPage } from './pages/CurrentGradesPage';
+export { AcademicStandingPage } from './pages/AcademicStandingPage';
+export { PloPage } from './pages/PloPage';
+export { SchedulePage } from './pages/SchedulePage';
+export { ThesisPage } from './pages/ThesisPage';
+export { ThesisDetailPage } from './pages/ThesisDetailPage';
+export { academicsService } from './services/academics.service';
+export type { Course, Grade, ScheduleItem } from './types';

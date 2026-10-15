@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-10",
+  "build": "pass",
+  "tokens": "pass",
+  "architecture": "pass",
+  "lint": "pass",
+  "unit": {
+    "pass": 6
+  },
+  "chromium": {
+    "cases": 41,
+    "initialPass": 40,
+    "initialFailure": "Old V2 canvas color expectation",
+    "updatedExpectation": "rgb(232, 240, 255)",
+    "targetedRerunPass": 4,
+    "focusValidationRerunPass": 2,
+    "remainingFailures": 0
+  },
+  "responsive": {
+    "cases": 350,
+    "widths": [1440, 1280, 1024, 768, 390, 360, 320],
+    "failures": 0,
+    "note": "42 service cases rechecked after radio layout change and merged by edition/route/width; one initial transient missing h1 was resolved by waiting for the visible heading."
+  },
+  "text": {
+    "cases": 36,
+    "failures": 0
+  },
+  "contrast": {
+    "pairs": 42,
+    "minimum": 4.564,
+    "failures": 0
+  },
+  "limitations": [
+    "Chromium desktop automation; no new Safari or real-device screen-reader validation.",
+    "Existing app remains light only."
+  ]
+}

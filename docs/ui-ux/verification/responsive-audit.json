@@ -1,0 +1,2810 @@
+[
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1440,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1280,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 1024,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 768,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 390,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 360,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "width": 320,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 1,
+    "errors": []
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1124
+  },
+  {
+    "ed": 2,
+    "width": 1440,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1440
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 964
+  },
+  {
+    "ed": 2,
+    "width": 1280,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1280
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 708
+  },
+  {
+    "ed": 2,
+    "width": 1024,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 1024
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 736
+  },
+  {
+    "ed": 2,
+    "width": 768,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 768
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 366
+  },
+  {
+    "ed": 2,
+    "width": 390,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 390
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 336
+  },
+  {
+    "ed": 2,
+    "width": 360,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 360
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/dashboard",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/profile",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/courses/1022933",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/grades",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/grades/current",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/grades/standing",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/grades/plo",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/schedule",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/thesis",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/academic/thesis/details",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/registration",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/tuition",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/tuition?view=courses",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/tuition?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/conduct/self-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/conduct/class-assessment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/community/activities",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/community/activities/it-esport-2026",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/community/results",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/services/requests",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/services/requests?view=history",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/services/requests?view=equipment",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/notifications",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 296
+  },
+  {
+    "ed": 2,
+    "width": 320,
+    "route": "/unknown",
+    "overflow": 0,
+    "h1": 1,
+    "mainWidth": 320
+  },
+  {
+    "ed": 2,
+    "errors": []
+  }
+]

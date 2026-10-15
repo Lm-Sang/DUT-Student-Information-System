@@ -1,0 +1,47 @@
+/** Synthetic identities shared by authentication and the assignment directory. */
+export const demoStaffAccounts = [
+  ['Nguyễn Minh Anh', 'Đào tạo'],
+  ['Trần Thu Hà', 'Công tác sinh viên'],
+  ['Lê Quốc Huy', 'Hỗ trợ CNTT'],
+  ['Phạm Ngọc Lan', 'Đào tạo'],
+  ['Đặng Hoài Nam', 'Đào tạo'],
+  ['Võ Thanh Trúc', 'Đào tạo'],
+  ['Bùi Quang Dũng', 'Đào tạo'],
+  ['Hồ Thảo Nguyên', 'Đào tạo'],
+  ['Nguyễn Đức Phúc', 'Đào tạo'],
+  ['Trần Mai Linh', 'Đào tạo'],
+  ['Lê Tuấn Kiệt', 'Công tác sinh viên'],
+  ['Phan Ngọc Hân', 'Công tác sinh viên'],
+  ['Đỗ Gia Bảo', 'Công tác sinh viên'],
+  ['Nguyễn Bích Vân', 'Công tác sinh viên'],
+  ['Trương Nhật Minh', 'Hỗ trợ CNTT'],
+  ['Võ Khánh Vy', 'Hỗ trợ CNTT'],
+].map(([fullName, department], index) => ({
+  id: `u-staff-${index + 1}`,
+  username: `staff${String(index + 1).padStart(2, '0')}`,
+  fullName,
+  department: department as 'Đào tạo' | 'Công tác sinh viên' | 'Hỗ trợ CNTT',
+  role: 'staff' as const,
+}));
+
+export const demoStudentAccounts = [
+  ['Lê Minh Sang', '23T_DT4'],
+  ['Nguyễn An Minh (mẫu)', '23T_DT3'],
+  ['Trần Khánh Hà (mẫu)', '23D1'],
+  ['Phạm Bảo Ngọc (mẫu)', '22X1'],
+  ['Đặng Quốc Bảo (mẫu)', '23T_DT1'],
+  ['Võ Minh Châu (mẫu)', '22H1'],
+  ['Lê Hoàng Phúc (mẫu)', '24D2'],
+  ['Nguyễn Thanh Tâm (mẫu)', '22K1'],
+  ['Trần Anh Khoa (mẫu)', '23C1'],
+  ['Hồ Ngọc Ánh (mẫu)', '24T_DT2'],
+  ['Phan Gia Huy (mẫu)', '21X2'],
+  ['Bùi Thảo My (mẫu)', '23MT1'],
+].map(([fullName, className], index) => ({
+  id: index === 0 ? 'u-student-1' : `u-demo-student-${index + 1}`,
+  username: `student${String(index + 1).padStart(2, '0')}`,
+  fullName,
+  className,
+  studentId: index === 0 ? '102230369' : `DEMO${String(index + 1).padStart(3, '0')}`,
+  role: 'student' as const,
+}));

@@ -6,7 +6,7 @@ University student management platform frontend with separate web and mobile app
 
 - `web/`: React + TypeScript web application
 - `mobile/`: Flutter mobile application
-- `docs/`: project documentation
+- `docs/`: [Flutter working rules and UI guidelines](docs/README.md) for developers and Codex
 
 ## Web application (React + TypeScript)
 

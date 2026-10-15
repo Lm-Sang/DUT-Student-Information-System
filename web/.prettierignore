@@ -1,0 +1,9 @@
+node_modules
+dist
+test-results
+playwright-report
+package-lock.json
+src/shared/assets
+
+# Generated from design-system/tokens.json
+src/app/styles/tokens.css

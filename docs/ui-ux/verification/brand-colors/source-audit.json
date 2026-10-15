@@ -1,0 +1,60 @@
+{
+  "changedFromTaskBaseline": [
+    "web/src/app/styles/globals.css",
+    "web/src/app/styles/redesign.css",
+    "web/src/app/styles/tokens.css",
+    "web/src/app/styles/v2.css",
+    "web/src/features/auth/pages/LoginPage.tsx",
+    "web/src/shared/assets/figma-v2/00c80.svg",
+    "web/src/shared/assets/figma-v2/0975b.svg",
+    "web/src/shared/assets/figma-v2/0c7ed.svg",
+    "web/src/shared/assets/figma-v2/1f3a3.svg",
+    "web/src/shared/assets/figma-v2/24c2f.svg",
+    "web/src/shared/assets/figma-v2/3d858.svg",
+    "web/src/shared/assets/figma-v2/4b9be.svg",
+    "web/src/shared/assets/figma-v2/5bebb.svg",
+    "web/src/shared/assets/figma-v2/5eb5d.svg",
+    "web/src/shared/assets/figma-v2/5fce4.svg",
+    "web/src/shared/assets/figma-v2/6116d.svg",
+    "web/src/shared/assets/figma-v2/67146.svg",
+    "web/src/shared/assets/figma-v2/77a90.svg",
+    "web/src/shared/assets/figma-v2/8b38a.svg",
+    "web/src/shared/assets/figma-v2/992b3.svg",
+    "web/src/shared/assets/figma-v2/b3e82.svg",
+    "web/src/shared/assets/figma-v2/b4407.svg",
+    "web/design-system/figma-map.json",
+    "web/design-system/figma-redesign-map.json",
+    "web/design-system/figma-v2-map.json",
+    "web/design-system/tokens.json",
+    "web/scripts/build-design-tokens.mjs",
+    "web/tests/e2e/portal.spec.ts",
+    "web/tests/e2e/v2.spec.ts",
+    "docs/ui-ux/figma-code-mapping.md",
+    "docs/ui-ux/redesign-implementation-report.md",
+    "docs/ui-ux/UI_UX_RULES.md",
+    "docs/ui-ux/v1-design-decisions.md",
+    "docs/ui-ux/v1-redesign-report.md",
+    "docs/ui-ux/v2-design-decisions.md",
+    "docs/ui-ux/v2-redesign-report.md",
+    "docs/ui-ux/02-design-system/design-tokens.md",
+    "docs/ui-ux/02-design-system/visual-style.md"
+  ],
+  "cssGeometry": [
+    {
+      "path": "web/src/app/styles/globals.css",
+      "nonColorDeclarationsUnchanged": true
+    },
+    {
+      "path": "web/src/app/styles/v2.css",
+      "nonColorDeclarationsUnchanged": true
+    },
+    {
+      "path": "web/src/app/styles/redesign.css",
+      "nonColorDeclarationsUnchanged": true
+    }
+  ],
+  "svgCount": 17,
+  "svgOnlyColorChanges": true,
+  "logoUnchanged": true,
+  "newRules": "docs/ui-ux/brand-color-system.md"
+}

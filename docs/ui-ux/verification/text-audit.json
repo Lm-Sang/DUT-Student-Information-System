@@ -1,0 +1,290 @@
+[
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "text200",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "spacing",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 1,
+    "mode": "reflow320",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "text200",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "spacing",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/dashboard",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/academic/courses",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/academic/grades",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/profile",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/services/requests",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  },
+  {
+    "edition": 2,
+    "mode": "reflow320",
+    "route": "/tuition",
+    "overflow": 0,
+    "clipped": [],
+    "canvas": "rgb(243, 246, 252)"
+  }
+]

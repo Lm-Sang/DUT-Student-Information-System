@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-10",
+  "scope": "Color-only redesign of DUT V1 and V2",
+  "codeChecks": {
+    "tokensAndExportedIcons": "pass",
+    "architecture": "pass",
+    "lint": "pass",
+    "unit": {
+      "passed": 6
+    },
+    "typecheck": "pass",
+    "productionBuild": "pass",
+    "chromiumE2E": {
+      "fullRunPassed": 40,
+      "fullRunFailed": 1,
+      "failureReason": "Obsolete expected canvas color in light-mode test",
+      "correctedTestRerunPassed": 1,
+      "afterLoginColorRefinementFocusedRerunPassed": 2,
+      "distinctPassingScenarios": 41
+    }
+  },
+  "visual": {
+    "browserScreensCaptured": 66,
+    "beforeAfterGeometryComparisons": 8,
+    "geometryDifferences": 0,
+    "cssNonColorDeclarationsUnchanged": true,
+    "svgGeometryUnchanged": 17,
+    "logoUnchanged": true,
+    "representativeReviews": [
+      "V1 and V2 home",
+      "V1 and V2 grades",
+      "V1 and V2 services",
+      "mobile services",
+      "login",
+      "Figma palette and button states",
+      "campus image caption"
+    ]
+  },
+  "accessibility": {
+    "tokenPairsPassed": 118,
+    "minimumNormalTextRatio": 4.696455565,
+    "minimumControlRatio": 3.337400298,
+    "computedTextRuns": 5459,
+    "computedDistinctPairsPassed": 48,
+    "imageCaptionRunsExcludedFromSolidColorCalculation": 8,
+    "stateSamples": 18,
+    "forcedColorsKeyboardFocus": "solid system-color outline in both editions",
+    "fullWCAGCertification": false
+  },
+  "figma": {
+    "screensUpdatedInPlace": 66,
+    "mappedComponentsUpdated": 122,
+    "buttonSpecimenVariants": 24,
+    "newFrames": 0,
+    "updatedVariables": 96,
+    "addedVariables": 46,
+    "updatedEffectStyles": 29,
+    "screenGeometryAndContentPreserved": true,
+    "buttonStrokeLayoutCorrections": 4,
+    "paletteNodeId": "349:2229",
+    "buttonSetNodeId": "247:2129"
+  },
+  "limitations": [
+    "No physical-device or screen-reader verification in this color-only revision",
+    "Safari/WebKit not rerun",
+    "Logo remains 86x86 raster",
+    "Image-caption contrast visually reviewed separately; no universal image-background AA claim",
+    "Existing native Figma glyph/pseudo-element rendering differences remain"
+  ],
+  "documentation": {
+    "localLinksChecked": 222,
+    "missingLinks": 0,
+    "canonicalRules": "docs/ui-ux/brand-color-system.md",
+    "formatCheck": "pass",
+    "gitDiffWhitespaceCheck": "pass"
+  }
+}

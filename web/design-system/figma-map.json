@@ -1,0 +1,134 @@
+{
+  "fileKey": "hq4ifJ2w6AjspNHzSafral",
+  "auditedAt": "2026-10-10",
+  "status": "native_editable_synced",
+  "reason": "V1 and V2 updated through Figma Plugin API; complete mapping is in figma-redesign-map.json.",
+  "tokensSource": "tokens.json",
+  "codeDesign": "DUT Workspace",
+  "existingCollection": "DUT / Học tập",
+  "frames": [
+    {
+      "route": "/",
+      "existingNodeId": "1:5910",
+      "layoutNote": "Campus hero and Microsoft 365 card remain in the public composition; native body matches current code and shared foundation.",
+      "status": "native_editable_synced",
+      "codeReferenceChecked": "2026-10-10: current runtime and native editable Figma reconciled."
+    },
+    {
+      "route": "/dashboard",
+      "existingNodeId": "1:7383",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/courses",
+      "existingNodeId": "1:5107",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/courses/:id",
+      "existingNodeId": "1:3682",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/grades",
+      "existingNodeId": "1:2783",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/grades/current",
+      "existingNodeId": "67:501",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/grades/standing",
+      "existingNodeId": "100:786",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/grades/plo",
+      "existingNodeId": "100:1187",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/schedule",
+      "existingNodeId": "1:7875",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/thesis",
+      "existingNodeId": "1:678",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/academic/thesis/details",
+      "existingNodeId": "71:700",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/tuition",
+      "existingNodeId": "1:1217",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/conduct/self-assessment",
+      "existingNodeId": "1:2",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/conduct/class-assessment",
+      "existingNodeId": "1:1744",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/community/activities",
+      "existingNodeId": "113:123",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/community/activities/:id",
+      "existingNodeId": "113:302",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/community/results",
+      "existingNodeId": "113:419",
+      "status": "native_editable_synced"
+    },
+    {
+      "route": "/services/requests",
+      "existingNodeId": "1:6522",
+      "status": "native_editable_synced"
+    }
+  ],
+  "unmatchedRoutes": [],
+  "unmatchedNote": "Additional login/profile/registration/notifications/admin/404 and states are mapped in figma-redesign-map.json.",
+  "proposedComponents": [
+    "Button",
+    "Input",
+    "Select",
+    "Badge",
+    "Card",
+    "Tabs",
+    "Table",
+    "Dialog",
+    "Sidebar",
+    "Header",
+    "Disclosure",
+    "SectionNav"
+  ],
+  "mode": "light",
+  "revision": "Brand Color System 1.3: neutral surfaces, restrained DUT blue, shared semantic states; existing layout and node IDs preserved.",
+  "navigation": {
+    "type": "horizontal_app_bar",
+    "drawerBelow": 1100,
+    "behavior": "Click disclosure on desktop; full labels in narrow drawer. V2 sidebar belongs to the other edition."
+  },
+  "colorSystem": {
+    "version": "1.3",
+    "syncedAt": "2026-10-10",
+    "rules": "docs/ui-ux/brand-color-system.md",
+    "tokensSource": "web/design-system/tokens.json",
+    "paletteNodeId": "349:2229",
+    "geometryPreserved": true
+  }
+}

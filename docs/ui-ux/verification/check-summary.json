@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-10",
+  "platform": "Windows",
+  "checks": {
+    "tokens": "passed",
+    "architecture": "passed",
+    "oxlint": "passed",
+    "unitTests": { "passed": 6, "failed": 0 },
+    "typescriptBuild": "passed",
+    "viteBuild": "passed",
+    "chromiumE2E": { "passed": 41, "failed": 0 },
+    "redesignRepeat": {
+      "cases": 5,
+      "repeatEach": 4,
+      "passed": 20,
+      "failed": 0
+    },
+    "responsive": {
+      "cases": 350,
+      "widths": [1440, 1280, 1024, 768, 390, 360, 320],
+      "failures": 0
+    },
+    "finalDashboardResponsive": { "cases": 14, "failures": 0 },
+    "textSpacingReflow": {
+      "cases": 36,
+      "failures": 0,
+      "text200Method": "CSS computed-font-size doubling; browser zoom not measured"
+    },
+    "nativeFigmaFrames": { "count": 66, "missing": 0, "missingFonts": 0 },
+    "preservedBusinessSources": { "compared": 40, "changed": 0 }
+  },
+  "notVerified": {
+    "webkit": "Browser context closes before page creation; full attempt and focused retry could not launch a page.",
+    "devicesAndAT": [
+      "Safari iOS / VoiceOver",
+      "Chrome Android / TalkBack",
+      "virtual keyboard",
+      "actual browser zoom 400%",
+      "forced colors",
+      "performance profiling"
+    ]
+  }
+}

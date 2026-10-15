@@ -1,0 +1,146 @@
+{
+  "fileKey": "hq4ifJ2w6AjspNHzSafral",
+  "foundationNode": "221:936",
+  "desktopViewport": {
+    "width": 1440,
+    "height": 1080
+  },
+  "font": "Be Vietnam Pro",
+  "assetDirectory": "src/shared/assets/figma-v2",
+  "presentationStyles": "src/app/styles/v2.css",
+  "notes": [
+    "Business services, hooks, data and handlers remain shared with V1.",
+    "Native editable Figma matches current code; code is tested at additional widths.",
+    "HOME-02 is the notification drawer state."
+  ],
+  "screens": [
+    {
+      "screen": "PUB-01",
+      "nodeId": "222:999",
+      "route": "/v2/",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-999"
+    },
+    {
+      "screen": "HOME-01",
+      "nodeId": "222:1000",
+      "route": "/v2/dashboard",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1000"
+    },
+    {
+      "screen": "HOME-02",
+      "nodeId": "222:1001",
+      "route": "/v2/dashboard",
+      "state": "notification drawer",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1001"
+    },
+    {
+      "screen": "ACA-01A",
+      "nodeId": "222:1562",
+      "route": "/v2/academic/courses",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1562"
+    },
+    {
+      "screen": "ACA-01B",
+      "nodeId": "222:1563",
+      "route": "/v2/academic/courses/1022933",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1563"
+    },
+    {
+      "screen": "ACA-02",
+      "nodeId": "222:1564",
+      "route": "/v2/academic/grades",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1564"
+    },
+    {
+      "screen": "ACA-02B",
+      "nodeId": "222:1565",
+      "route": "/v2/academic/grades/current",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1565"
+    },
+    {
+      "screen": "ACA-02C",
+      "nodeId": "222:1566",
+      "route": "/v2/academic/grades/standing",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1566"
+    },
+    {
+      "screen": "ACA-02D",
+      "nodeId": "222:1567",
+      "route": "/v2/academic/grades/plo",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1567"
+    },
+    {
+      "screen": "ACA-03",
+      "nodeId": "222:1568",
+      "route": "/v2/academic/schedule",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1568"
+    },
+    {
+      "screen": "ACA-04",
+      "nodeId": "222:1569",
+      "route": "/v2/academic/thesis",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1569"
+    },
+    {
+      "screen": "ACA-04B",
+      "nodeId": "222:1570",
+      "route": "/v2/academic/thesis/details",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1570"
+    },
+    {
+      "screen": "FIN-01C",
+      "nodeId": "222:1546",
+      "route": "/v2/tuition",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1546"
+    },
+    {
+      "screen": "CON-01",
+      "nodeId": "222:1550",
+      "route": "/v2/conduct/self-assessment",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1550"
+    },
+    {
+      "screen": "CON-02",
+      "nodeId": "222:1551",
+      "route": "/v2/conduct/class-assessment",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1551"
+    },
+    {
+      "screen": "CON-03",
+      "nodeId": "222:1554",
+      "route": "/v2/community/results",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1554"
+    },
+    {
+      "screen": "CON-04",
+      "nodeId": "222:1552",
+      "route": "/v2/community/activities",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1552"
+    },
+    {
+      "screen": "CON-04A",
+      "nodeId": "222:1553",
+      "route": "/v2/community/activities/it-esport-2026",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1553"
+    },
+    {
+      "screen": "SVC-01",
+      "nodeId": "222:1558",
+      "route": "/v2/services/requests",
+      "url": "https://www.figma.com/design/hq4ifJ2w6AjspNHzSafral/DUT-Student-Portal?node-id=222-1558"
+    }
+  ],
+  "status": "native_editable_synced",
+  "syncedAt": "2026-10-10",
+  "completeMapping": "figma-redesign-map.json",
+  "revision": "Brand Color System 1.3: neutral surfaces, restrained DUT blue, shared semantic states; existing layout and node IDs preserved.",
+  "editionOverrides": "src/app/styles/redesign.css",
+  "colorSystem": {
+    "version": "1.3",
+    "syncedAt": "2026-10-10",
+    "rules": "docs/ui-ux/brand-color-system.md",
+    "tokensSource": "web/design-system/tokens.json",
+    "paletteNodeId": "349:2229",
+    "geometryPreserved": true
+  }
+}
